@@ -3,3 +3,10 @@ img{
     max-width: 200px;
     border: 1px solid black;
 }
+body{
+    background-color: #c9c9c9;
+}
+
+menu{
+    background-color: black;
+}
